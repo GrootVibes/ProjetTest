@@ -1,0 +1,3 @@
+Ceci est un fichier de test pour l'application Electron.
+
+Vous pouvez modifier, ajouter ou supprimer ce fichier pour tester la synchronisation.
